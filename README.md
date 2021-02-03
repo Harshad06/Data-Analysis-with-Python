@@ -14,3 +14,5 @@ Project - 4 | Data Analysis with Python | Covid-19 Dataset
 Project - 5 | Data Analysis with Python | London Housing Dataset
 
 Project - 6 | Data Analysis with Python | Census Dataset
+
+Project - 7 | Data Analysis with Python | Udemy Courses Data
