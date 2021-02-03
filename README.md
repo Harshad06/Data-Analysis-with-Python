@@ -11,4 +11,6 @@ Project - 3 | Data Analysis with Python | Police Dataset
 
 Project - 4 | Data Analysis with Python | Covid-19 Dataset
 
-Project - 5 | Data Analysis with Python | London Housing Datasets
+Project - 5 | Data Analysis with Python | London Housing Dataset
+
+Project - 6 | Data Analysis with Python | Census Dataset
