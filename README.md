@@ -15,4 +15,6 @@ Project - 5 | Data Analysis with Python | London Housing Dataset
 
 Project - 6 | Data Analysis with Python | Census Dataset
 
-Project - 7 | Data Analysis with Python | Udemy Courses Data
+Project - 7 | Data Analysis with Python | Udemy Courses Dataset
+
+Project - 8 | Data Analysis with Python | Netflix Dataset
